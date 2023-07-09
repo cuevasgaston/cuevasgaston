@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduardo Gaston Cuevas</h1>
 <h3 align="center">A passionate Fullstack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **SnowpandaCo, a Snowboard Ecommerce**
+- 🔭 I’m currently working on **Ecommerce**
 
-- 🌱 I’m currently learning **Angular and Java**
+- 🌱 I’m currently learning **Angular and Next**
 
 - 👯 I’m looking to collaborate on **any project that provides me experience**
 
